@@ -82,3 +82,8 @@ hr {
   height: 2px;
   background-color: #8C5E58
 }
+
+/* ---- Pseudo Classes ----*/ 
+a:link    { color: blue;  }
+a:visited { color: black;   }
+a:hover   { color: #ffae00; }
