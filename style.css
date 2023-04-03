@@ -63,6 +63,20 @@ header nav ul li a {
   border-radius: 50%;
 }
 
+/* ---- Main styles ----*/ 
+div.centered-list {
+  text-align: center;
+}
+
+ul.centered-ul {
+  display: inline-block;
+  text-align: left;
+}
+
+ol.centered-ol {
+  display: inline-block;
+  text-align: left;
+}
 /* ---- Ruler style ---- */
 hr {
   height: 2px;
